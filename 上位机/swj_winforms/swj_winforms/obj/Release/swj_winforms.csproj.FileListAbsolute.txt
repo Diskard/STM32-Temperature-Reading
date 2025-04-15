@@ -1,0 +1,11 @@
+D:\STM32\big homework\UpJi\swj_winforms\swj_winforms\obj\Release\swj_winforms.csproj.AssemblyReference.cache
+D:\STM32\big homework\UpJi\swj_winforms\swj_winforms\obj\Release\swj_winforms.csproj.SuggestedBindingRedirects.cache
+D:\STM32\big homework\UpJi\swj_winforms\swj_winforms\obj\Release\swj_winforms.Form1.resources
+D:\STM32\big homework\UpJi\swj_winforms\swj_winforms\obj\Release\swj_winforms.csproj.GenerateResource.cache
+D:\STM32\big homework\UpJi\swj_winforms\swj_winforms\obj\Release\swj_winforms.csproj.CoreCompileInputs.cache
+D:\STM32\big homework\UpJi\swj_winforms\swj_winforms\bin\Release\TemperatureCtrl上位机.exe.config
+D:\STM32\big homework\UpJi\swj_winforms\swj_winforms\bin\Release\TemperatureCtrl上位机.exe
+D:\STM32\big homework\UpJi\swj_winforms\swj_winforms\bin\Release\TemperatureCtrl上位机.pdb
+D:\STM32\big homework\UpJi\swj_winforms\swj_winforms\obj\Release\TemperatureCtrl上位机.exe
+D:\STM32\big homework\UpJi\swj_winforms\swj_winforms\obj\Release\TemperatureCtrl上位机.pdb
+D:\STM32\big homework\UpJi\swj_winforms\swj_winforms\obj\Release\TemperatureCtrl上位机.Properties.Resources.resources

@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "bsp_led.h": "c",
+        "bsp_basic_timer.h": "c",
+        "bsp_exti.h": "c",
+        "bsp_assist.h": "c"
+    }
+}
